@@ -1,0 +1,96 @@
+body {
+	background: #F7F9FC;
+	color: #575F7D;
+	font-family: 'Lora', serif;
+	font-size: 17px
+	font-weight: lighter;
+}
+h1,h2,h3{
+	font-family: 'Roboto', sans-serif;
+}
+h1{
+	color:black; 
+	font-size: 32px}
+
+h2{
+	color:#7ECE90
+	font-family: conrier;
+	font-size: 20px;
+	font-weight: lighter
+	font-weight: 500;
+	}
+
+a{
+	font-family: 'Roboto',sans-serif;
+	color:#6b72E1;
+	font-size:16px;
+	font-weight:600;
+}
+
+a:hover{
+	color:black;
+}
+
+#logo{width: 40px}
+
+p{
+	width: 500px;
+	padding:30px;
+	border-radius: 4px;
+	box-shadow:0 15px 35px rgba(50,50,93,.1);
+}
+
+@media (max-width: 500px){
+	.container
+	{
+		background-width:400px;
+	}
+}
+
+.container{
+	width: 700px;
+	margin:60px auto;
+	;
+}
+.box-design{
+	background-color: white;
+	padding:40px;
+	box-shadow:0px 10px 30px rgba(0,0,0,0,1);
+	border-radius: 4px;
+	margin:20px 0px;
+	text-align: center;
+
+}
+
+.img-circle{
+	border-radius: 50%
+}
+.btn-blue{
+	background-color: grey;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+}
+.btn-blue:hover{
+	background-color: violet;
+	color:white;
+}
+}
+
+#introduction p{
+	margin-bottom: 40px
+}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2022.3">
+  <style type="text/css">
+  </style>
+</head>
+<body>
+</body>
+</html>
